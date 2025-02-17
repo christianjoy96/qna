@@ -1,0 +1,805 @@
+[
+    {
+        "category": "Reflective Question",
+        "question": "Jika kamu bisa menjelaskan siapa dirimu dalam tiga kata, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Apa yang paling kamu hargai dalam kehidupan?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Bagaimana cara terbaik untuk menunjukkan rasa sayang kepadamu?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Jika harus memilih antara hidup sederhana tapi bermakna atau hidup mewah tapi penuh tekanan, mana yang kamu pilih?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Apa arti kebahagiaan buatmu?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Bagaimana cara kamu membangun kepercayaan dalam hubungan?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Apa yang membuatmu merasa paling berenergi dalam sehari-hari?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Seberapa penting keseimbangan antara pekerjaan dan kehidupan pribadi buatmu?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Apa satu hal dalam hidupmu yang tidak bisa kamu kompromikan?"
+    },
+    {
+        "category": "Reflective Question",
+        "question": "Bagaimana cara kamu menghadapi orang yang memiliki pandangan hidup berbeda darimu?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Jika kamu menemukan seseorang menangis sendirian di tempat umum, apa yang akan kamu lakukan?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Kamu sedang dalam perjalanan, lalu kendaraan umum yang kamu naiki mogok. Apa langkah pertama yang kamu lakukan?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Jika temanmu membatalkan rencana di menit-menit terakhir, bagaimana reaksimu?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Kamu diberikan kesempatan berbicara di depan banyak orang untuk menyampaikan satu pesan penting. Apa yang akan kamu katakan?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Jika kamu diberi kesempatan untuk menghapus satu kesalahan dalam hidupmu, apakah kamu akan melakukannya atau membiarkan semuanya berjalan seperti apa adanya?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Ketika ada dua pilihan: tetap dalam zona nyaman atau mengambil risiko demi kesempatan lebih besar, mana yang lebih menarik buatmu?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Bagaimana cara kamu menghadapi seseorang yang sulit diajak bekerja sama?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Apa yang akan kamu lakukan jika harus bekerja dalam tim dengan seseorang yang kamu tidak cocok dengannya?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Jika seseorang mengkritik sesuatu yang kamu kerjakan dengan keras, bagaimana reaksi kamu?"
+    },
+    {
+        "category": "Situational Question",
+        "question": "Bagaimana kamu menenangkan diri setelah hari yang sangat melelahkan?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Ketika sedang stres, apakah kamu lebih suka berbicara dengan seseorang atau menyendiri untuk memproses semuanya?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Saat bertemu orang baru, apakah kamu lebih suka mendengar cerita mereka dulu atau lebih dulu berbicara tentang dirimu sendiri?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Jika harus menggambarkan dirimu dengan sebuah warna, warna apa yang akan kamu pilih dan mengapa?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Saat bekerja dalam tim, apakah kamu lebih suka menjadi orang yang mengambil keputusan atau lebih suka mendukung keputusan yang sudah dibuat?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Ketika berdebat dengan seseorang, apakah kamu lebih cenderung berusaha membuktikan pendapatmu benar atau mencari titik tengah yang bisa disepakati?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Apakah kamu lebih nyaman dalam suasana yang tenang dan intim atau dalam keramaian dan kesibukan?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Bagaimana cara kamu menilai seseorang? Dari cara berbicara, tindakan, atau sesuatu yang lain?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Jika kamu tiba-tiba mendapatkan uang dalam jumlah besar, apa yang pertama kali akan kamu lakukan?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Kamu lebih suka menulis diary atau menceritakan pengalamanmu langsung kepada seseorang?"
+    },
+    {
+        "category": "Personality Quiz Question",
+        "question": "Bagaimana kamu menentukan apakah seseorang bisa dipercaya atau tidak?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Apa kebiasaan kecil yang bisa membuat harimu lebih baik?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Bagaimana cara kamu mengatur prioritas dalam hidup?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Apa rutinitas pagi yang menurutmu paling ideal?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Ketika sedang sangat sibuk, bagaimana cara kamu mengatur waktumu?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Apakah kamu tipe orang yang selalu mengikuti jadwal atau lebih suka fleksibel?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Jika kamu sedang dalam suasana hati yang buruk, bagaimana cara orang lain bisa membantumu merasa lebih baik?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Apa kebiasaan yang menurutmu penting untuk mempertahankan hubungan yang sehat?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Apa satu hal kecil yang bisa membuatmu langsung merasa nyaman di suatu tempat baru?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Bagaimana caramu menghadapi perubahan mendadak dalam rencana yang sudah kamu susun dengan matang?"
+    },
+    {
+        "category": "Habit and Behavior Question",
+        "question": "Seberapa besar pengaruh lingkungan terhadap mood dan produktivitasmu?"
+    },
+    {
+        "category": "Psychology Theory Question",
+        "question": "Dalam teori Love Language, bagaimana cara terbaik seseorang menunjukkan rasa sayang kepadamu? (Words of Affirmation, Quality Time, Acts of Service, Physical Touch, atau Receiving Gifts?)"
+    },
+    {
+        "category": "Psychology Theory Question",
+        "question": "Dalam teori Attachment Style, apakah kamu cenderung lebih secure, anxious, avoidant, atau fearful dalam hubungan?"
+    },
+    {
+        "category": "Psychology Theory Question",
+        "question": "Menurut Big Five Personality, apakah kamu lebih tinggi dalam keterbukaan terhadap pengalaman atau lebih konservatif dalam pilihan hidup?"
+    },
+    {
+        "category": "Psychology Theory Question",
+        "question": "Dalam konsep Growth Mindset vs. Fixed Mindset, bagaimana cara kamu memandang kegagalan?"
+    },
+    {
+        "category": "Psychology Theory Question",
+        "question": "Apakah kamu merasa lebih nyaman dalam hubungan yang terstruktur atau yang penuh spontanitas?"
+    },
+    {
+        "category": "Unique and Thought-Provoking Question",
+        "question": "Jika hidupmu diadaptasi menjadi sebuah novel, apa judul yang cocok untuknya?"
+    },
+    {
+        "category": "Unique and Thought-Provoking Question",
+        "question": "Jika kamu bisa berbicara dengan versi dirimu di masa depan, apa yang ingin kamu tanyakan?"
+    },
+    {
+        "category": "Unique and Thought-Provoking Question",
+        "question": "Jika kamu bisa menghidupkan kembali satu momen dalam hidupmu, momen apa yang akan kamu pilih dan mengapa?"
+    },
+    {
+        "category": "Unique and Thought-Provoking Question",
+        "question": "Jika kamu bisa memiliki satu kekuatan super, apa yang akan kamu pilih dan bagaimana kamu akan menggunakannya?"
+    },
+    {
+        "category": "Unique and Thought-Provoking Question",
+        "question": "Apa hal paling tidak biasa yang pernah kamu lakukan tetapi sangat kamu nikmati?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Apa yang paling kamu cari dalam hubungan?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Bagaimana cara kamu menunjukkan kasih sayang kepada pasangan?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Menurutmu, apa hal terpenting dalam membangun hubungan jangka panjang?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Bagaimana pendapatmu tentang kompromi dalam hubungan? Sejauh mana menurutmu itu penting?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Jika kamu sedang dalam konflik dengan pasangan, apakah kamu lebih suka menyelesaikannya segera atau butuh waktu untuk menenangkan diri dulu?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Apa yang menurutmu lebih penting dalam hubungan: memiliki banyak kesamaan atau saling melengkapi dalam perbedaan?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Bagaimana cara kamu menanggapi pasangan yang butuh ruang pribadi?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Apa ketakutan terbesarmu dalam menjalin hubungan?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Jika kamu bisa mendeskripsikan hubungan ideal dalam satu kata, apa kata itu?"
+    },
+    {
+        "category": "Relationship and Partnership Question",
+        "question": "Seberapa besar peran komunikasi dalam hubungan menurutmu?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Jika harus memilih antara mengejar passion atau pekerjaan yang stabil secara finansial, mana yang lebih kamu pilih?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Apa kriteria utama yang kamu gunakan saat mengambil keputusan besar?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Jika kamu harus membuat keputusan cepat tanpa cukup waktu untuk berpikir, bagaimana caramu menghadapinya?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Apa keputusan terbaik yang pernah kamu buat dalam hidupmu?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Jika ada dua jalan dalam hidup: satu penuh tantangan tapi menjanjikan pertumbuhan dan satu lagi mudah tetapi membosankan, mana yang akan kamu pilih?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Apa hal pertama yang ingin kamu capai dalam 5 tahun ke depan?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Jika kamu harus pindah ke kota baru sendirian, apa yang akan kamu lakukan terlebih dahulu?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Apa hal pertama yang kamu pertimbangkan saat ingin membeli sesuatu yang mahal?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Jika kamu diberikan kebebasan penuh untuk bekerja di bidang apa saja, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Decision and Priority Question",
+        "question": "Seberapa penting rencana jangka panjang dalam hidupmu?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Apa arti kesuksesan buatmu?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Bagaimana kamu menghadapi kegagalan?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Apa pandanganmu tentang keseimbangan antara ambisi dan kebahagiaan?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Bagaimana pendapatmu tentang pentingnya memiliki mentor dalam hidup?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Seberapa besar pengaruh lingkungan terhadap pilihan hidupmu?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Apa yang menurutmu lebih penting: berusaha keras atau memanfaatkan peluang yang ada?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Jika kamu bisa memberikan satu nasihat untuk diri sendiri di masa lalu, apa itu?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Bagaimana cara kamu mengukur perkembangan diri?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Apa pendapatmu tentang keberuntungan? Apakah seseorang bisa menciptakannya sendiri?"
+    },
+    {
+        "category": "Life Perspective Question",
+        "question": "Apakah kamu percaya bahwa setiap orang memiliki tujuan hidup yang sudah ditentukan?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Bagaimana cara kamu menghibur seseorang yang sedang sedih?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Seberapa mudah kamu mengekspresikan emosimu kepada orang lain?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Bagaimana cara kamu menghadapi kekecewaan dalam hidup?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Apa yang bisa langsung membuatmu merasa lebih baik saat sedang sedih?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Seberapa besar peran intuisi dalam hidupmu?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Bagaimana kamu menanggapi seseorang yang sedang mengalami kesulitan emosional?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Seberapa besar kesabaranmu dalam menghadapi seseorang yang sulit dipahami?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Apa yang menurutmu lebih penting: memahami perasaan sendiri atau memahami perasaan orang lain?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Jika kamu bisa mengubah satu hal dalam cara orang berkomunikasi, apa itu?"
+    },
+    {
+        "category": "Emotion and Empathy Question",
+        "question": "Apa yang bisa langsung membuatmu merasa nyaman dengan seseorang yang baru dikenal?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Bagaimana cara kamu mengisi akhir pekan yang ideal?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Apa kebiasaan kecil yang kamu lakukan setiap hari yang menurutmu berdampak besar?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Bagaimana cara kamu mengatasi stres?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Seberapa penting olahraga dalam rutinitas harianmu?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Apakah kamu lebih suka bangun pagi atau begadang?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Apa kebiasaan yang ingin kamu ubah dalam hidupmu?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Jika kamu bisa menghapus satu kebiasaan buruk dalam semalam, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Apakah kamu lebih suka bekerja dalam suasana yang tenang atau yang penuh dengan aktivitas?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Seberapa besar peran musik dalam keseharianmu?"
+    },
+    {
+        "category": "Habit and Lifestyle Question",
+        "question": "Jika kamu hanya bisa memilih satu hobi untuk seumur hidup, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Apa arti cinta buatmu?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Bagaimana cara kamu menunjukkan bahwa kamu peduli kepada pasangan?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Apakah kamu lebih suka hubungan yang penuh spontanitas atau yang lebih terstruktur?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Jika pasanganmu sedang kesal, bagaimana cara kamu menanggapinya?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Seberapa penting kualitas komunikasi dalam hubungan menurutmu?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Bagaimana pendapatmu tentang pentingnya menjaga ruang pribadi dalam hubungan?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Seberapa sering kamu merasa perlu mendapatkan kepastian dalam hubungan?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Jika kamu harus memilih antara pasangan yang sangat mirip denganmu atau sangat berbeda, mana yang lebih menarik?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Apa yang menurutmu lebih penting: chemistry yang kuat atau kompatibilitas jangka panjang?"
+    },
+    {
+        "category": "Dating and Relationship Question",
+        "question": "Bagaimana pendapatmu tentang kejutan dalam hubungan?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa hidup dalam dunia film atau buku tertentu, mana yang akan kamu pilih?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa memiliki hewan peliharaan eksotis, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa menjadi ahli dalam satu bidang dalam semalam, bidang apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika hidupmu adalah film, siapa aktor yang cocok memerankan dirimu?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu harus makan satu jenis makanan seumur hidup, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa menukar hidup dengan seseorang selama sehari, siapa yang akan kamu pilih?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa mengubah satu hal dalam dunia ini, apa yang akan kamu ubah?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu harus memilih antara hidup tanpa internet atau tanpa musik, mana yang lebih mudah kamu lepaskan?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa berbicara dalam bahasa apa saja secara instan, bahasa apa yang akan kamu pelajari?"
+    },
+    {
+        "category": "Fun and Icebreaker Question",
+        "question": "Jika kamu bisa memiliki waktu ekstra satu jam setiap hari, bagaimana kamu akan menggunakannya?"
+    }
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Bagaimana kamu biasanya merespons situasi yang penuh tekanan?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Apakah kamu lebih suka bekerja sendiri atau dalam tim? Mengapa?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Bagaimana cara terbaik untuk memotivasi dirimu sendiri?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Apa kebiasaan kecil yang menurutmu banyak berdampak positif dalam hidupmu?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Seberapa penting rutinitas dalam hidupmu?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Apa kebiasaan yang ingin kamu ubah dalam hidupmu?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Bagaimana caramu mengelola emosi negatif seperti marah atau kecewa?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Apakah kamu cenderung berpikir logis atau lebih mengandalkan intuisi dalam mengambil keputusan?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Apa tipe kepribadianmu menurut tes MBTI (jika pernah mencobanya), dan menurutmu seberapa akurat hasilnya?"
+    },
+    {
+        "category": "Kepribadian & Kebiasaan",
+        "question": "Jika orang lain mendeskripsikan kepribadianmu dalam tiga kata, menurutmu kata apa yang paling sering muncul?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apa kualitas utama yang kamu cari dalam seorang teman?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Bagaimana cara terbaik untuk menunjukkan kasih sayang kepada seseorang yang kamu pedulikan?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apa yang biasanya membuatmu merasa nyaman saat bertemu orang baru?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Seberapa penting bagimu untuk memiliki teman dengan minat yang sama?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apakah kamu lebih suka menghabiskan waktu dengan banyak teman atau hanya dengan beberapa orang terdekat?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apa pengalaman sosial yang paling berkesan dalam hidupmu?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Bagaimana cara terbaik bagimu untuk menyelesaikan konflik dengan orang lain?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apakah kamu lebih sering mengambil inisiatif untuk bersosialisasi, atau menunggu orang lain yang mengajak duluan?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Bagaimana caramu menunjukkan dukungan kepada teman atau pasangan yang sedang mengalami kesulitan?"
+    },
+    {
+        "category": "Hubungan & Sosial",
+        "question": "Apakah kamu lebih suka menjadi pendengar atau lebih suka berbicara dalam percakapan?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Jika kamu bisa mendapatkan satu keterampilan baru dalam semalam, keterampilan apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Apa pencapaian yang paling membanggakan dalam hidupmu sejauh ini?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Apakah kamu lebih suka memiliki karier yang stabil atau yang penuh tantangan dan berubah-ubah?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Jika uang bukan masalah, apa pekerjaan impianmu?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Apa hal terbesar yang ingin kamu capai dalam hidup ini?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Bagaimana kamu biasanya menangani rasa takut akan kegagalan?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Apakah ada seseorang yang sangat menginspirasimu dalam hal karier atau kehidupan?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Bagaimana definisimu tentang kesuksesan pribadi?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Apa yang biasanya membuatmu kehilangan motivasi, dan bagaimana cara mengatasinya?"
+    },
+    {
+        "category": "Impian & Ambisi",
+        "question": "Jika kamu bisa berbicara dengan dirimu sendiri di masa depan 10 tahun mendatang, apa yang ingin kamu tanyakan?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Apa aktivitas favoritmu di akhir pekan?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Apakah kamu lebih suka bangun pagi atau begadang?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Bagaimana caramu menghabiskan waktu luang?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Apakah kamu lebih suka tempat yang ramai atau yang tenang untuk bersantai?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Bagaimana rutinitas pagimu biasanya?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Apakah kamu tipe yang suka merencanakan segalanya atau lebih suka spontanitas?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Apa makanan favorit yang selalu bisa meningkatkan mood-mu?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Bagaimana cara idealmu untuk mengakhiri hari yang sibuk?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Seberapa penting olahraga dalam hidupmu?"
+    },
+    {
+        "category": "Gaya Hidup & Keseharian",
+        "question": "Jika harus memilih antara tinggal di kota besar atau pedesaan, mana yang lebih kamu sukai?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Apa bentuk seni atau kreativitas yang paling kamu nikmati?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Jika kamu bisa menjadi ahli dalam satu bidang seni, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Apa buku atau film yang paling mempengaruhimu sejauh ini?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Bagaimana kamu mengekspresikan kreativitas dalam kehidupan sehari-hari?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Apakah kamu lebih suka mendengarkan musik atau menonton film untuk bersantai?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Jika kamu bisa belajar memainkan satu alat musik dalam semalam, alat musik apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Apa jenis hiburan yang menurutmu paling menyenangkan?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Seberapa penting seni atau budaya dalam hidupmu?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Apakah kamu lebih suka membaca buku fiksi atau non-fiksi?"
+    },
+    {
+        "category": "Kreativitas & Hiburan",
+        "question": "Jika kamu bisa berkolaborasi dengan seorang seniman terkenal, siapa yang akan kamu pilih?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Apa destinasi impianmu yang ingin kamu kunjungi setidaknya sekali seumur hidup?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Apakah kamu lebih suka bepergian sendiri atau bersama teman?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Apa pengalaman perjalanan paling berkesan yang pernah kamu alami?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Bagaimana cara idealmu untuk mengeksplorasi tempat baru?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Apakah kamu lebih suka liburan ke pantai, gunung, atau kota besar?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Jika bisa tinggal di negara lain selama setahun, negara mana yang akan kamu pilih?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Apa hal paling berani yang pernah kamu lakukan selama perjalanan?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Bagaimana cara terbaik menurutmu untuk mengalami budaya baru?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Jika kamu hanya bisa membawa satu benda saat traveling, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Petualangan & Travel",
+        "question": "Seberapa jauh kamu ingin menjelajahi dunia?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Apa prinsip hidup yang selalu kamu pegang teguh?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Seberapa penting makna dan tujuan dalam setiap hal yang kamu lakukan?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Bagaimana cara terbaik menurutmu untuk menemukan kebahagiaan?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Apa yang menurutmu lebih berharga: pengalaman atau materi?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Jika kamu bisa mengubah satu hal dalam dunia ini, apa yang akan kamu ubah?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Apakah menurutmu manusia pada dasarnya baik atau buruk?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Seberapa penting spiritualitas atau agama dalam hidupmu?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Bagaimana pendapatmu tentang konsep takdir versus pilihan bebas?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Jika hidupmu adalah sebuah buku, apa judul yang paling cocok?"
+    },
+    {
+        "category": "Filosofi & Nilai Hidup",
+        "question": "Apa pelajaran terbesar yang pernah kamu pelajari dalam hidup?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu bisa makan malam dengan siapa pun di dunia (hidup atau telah tiada), siapa yang akan kamu pilih?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu memiliki satu hari di mana kamu bisa melakukan apa pun tanpa konsekuensi, apa yang akan kamu lakukan?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu bisa kembali ke satu momen dalam hidupmu dan mengulanginya, momen apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Bagaimana caramu ingin dikenang oleh orang-orang setelah kamu tiada?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu bisa memiliki satu kekuatan super, apa yang akan kamu pilih?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu menemukan lampu ajaib dengan satu permintaan, apa yang akan kamu minta?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Bagaimana cara terbaik menurutmu untuk memberikan dampak positif bagi dunia?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu bisa hidup di era atau zaman lain dalam sejarah, kapan kamu ingin hidup?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika kamu bisa menciptakan hukum baru yang harus diikuti semua orang, hukum apa yang akan kamu buat?"
+    },
+    {
+        "category": "Pertanyaan Reflektif & Unik",
+        "question": "Jika seseorang harus membuat film tentang hidupmu, siapa aktor yang cocok memerankan dirimu?"
+    }
+]
+
+
+
